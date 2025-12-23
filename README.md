@@ -62,6 +62,3 @@ docker-compose down
 ---
 
 ## 📌 Notas
-No se sube el contenedor generado, solo:
-- Dockerfile
-- docker-compose.yml
